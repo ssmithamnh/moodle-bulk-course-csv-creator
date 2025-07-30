@@ -1,0 +1,19 @@
+fullname,shortname,category_path,visible,templatecourse
+Class of YEAR - Cohort NUM - Program Home,MAT_CNUM_HOME_LAST_TWO_DIGITS,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_HOME_CURRENT
+June Academic Milestone Meetings Cohort NUM,MAT_CNUM_June_AMM ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_June_AMM 
+Cohort NUM - Final Grades,MAT_CNUM_FINALGRADES ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_FINALGRADES 
+January Academic Milestone Meetings Cohort NUM,MAT_CNUM_January_AMM ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_January_AMM 
+Assessment ePortfolio Assessment Cohort NUM,MAT_CNUM_ePortfolio ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_ePortfolio 
+Museum Summer Residency,MAT_CNUM_MRE ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_MRE 
+Applied Research and Learning in Informal Science Settings,MAT_CNUM_EDU600 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU600 
+Literacy in Content Area with Applications to Multilingual Contexts,MAT_CNUM_EDU610 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU610 
+Curriculum and Instruction for Teaching Earth Science in Secondary Schools,MAT_CNUM_EDU620 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU620 
+"Developmental Variations: Development, Assessment and Instruction with a Special Needs Focus",MAT_CNUM_EDU630 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU630 
+Methods and Assessments of Student Science Research,MAT_CNUM_EDU640 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU640 
+Foundations of Education in the Urban Context,MAT_CNUM_EDU650 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU650 
+The Solar System: Earth and Space Science,MAT_CNUM_SCI652 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_SCI652 
+Earth Science Literacy Journal Seminar,MAT_CNUM_EDU-SCI660,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_EDU-SCI660
+Space Systems,MAT_CNUM_SCI665,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_SCI665
+Earth Evolution and the Earth System,MAT_CNUM_SCI670 ,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_SCI670 
+"Weather, Climate, and Climate Change",MAT_CNUM_SCI675,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_SCI675
+Museum Science Practicum,MAT_CNUM_SCI680,MAT ESR / CNUM_YEAR_YEAR_1,0,MAT_CPRIOR_SCI680
