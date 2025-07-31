@@ -17,9 +17,6 @@ def main():
     # Load DataFrame
     df = pd.read_csv("data/template.csv")
 
-    st.subheader("Template")
-    st.dataframe(df)
-
     # Replace placeholders
     def replace_placeholders(x):
         if isinstance(x, str):
