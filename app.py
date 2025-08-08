@@ -15,10 +15,7 @@ def main():
     last_two_digits_minus_1 = str(current_year - 1)[-2:]
     
     # Load DataFrame
-    df = pd.read_csv("/Users/ssmith/Desktop/Moodle/Course Bulk Upload/data/template.csv")
-
-    st.subheader("Template")
-    st.dataframe(df)
+    df = pd.read_csv("data/template.csv")
 
     # Replace placeholders
     def replace_placeholders(x):
